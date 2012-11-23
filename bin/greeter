@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'greeter'
+puts Greeter.say_hi(ARGV[0])
